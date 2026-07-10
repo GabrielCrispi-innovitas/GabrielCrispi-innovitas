@@ -79,7 +79,7 @@ const gabriel = {
 <tr>
 <td width="100%">
 
-#### 🩺 VisAll — SaaS multi-tenant para força de vendas farmacêutica
+#### 🩺 VisAll — SaaS multi-tenant
 
 Plataforma completa de gestão de propagandistas: agendamento, visitas, metas,
 estoque, simulação de ausências e sincronização com ERPs externos.
