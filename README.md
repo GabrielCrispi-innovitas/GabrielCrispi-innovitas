@@ -4,7 +4,7 @@
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Gabriel%20Crispi&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Engineer%20%C2%B7%20Backend-heavy%20%C2%B7%20Mobile&descAlignY=60&descSize=18" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Gabriel%20Crispi&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Engineer%20%C2%B7%20Backend%20%C2%B7%20Mobile&descAlignY=60&descSize=18" />
 
 <a href="https://github.com/GabrielCrispi-innovitas">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=9D8CFF&center=true&vCenter=true&width=650&lines=Construindo+SaaS+multi-tenant+em+escala;NestJS+%2B+Drizzle+%2B+PostgreSQL;Mobile+offline-first+com+Expo+%2F+React+Native;Do+banco+de+dados+%C3%A0+UI+do+app" alt="Typing SVG" />
